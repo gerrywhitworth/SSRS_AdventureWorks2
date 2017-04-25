@@ -757,8 +757,9 @@ Sales</Value>
             </ChartNoDataMessage>
             <DataSetName>Sales</DataSetName>
             <Top>1.92014in</Top>
+            <Left>0.32292in</Left>
             <Height>4.80333in</Height>
-            <Width>8.83208in</Width>
+            <Width>8.26958in</Width>
             <ZIndex>2</ZIndex>
             <Style>
               <Border>
